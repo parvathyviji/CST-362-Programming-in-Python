@@ -5,3 +5,7 @@ elif (ch>='a' and ch<='z') or (ch>='A' and ch<='Z'):
     print("consonant")
 else:
     print("Invalid input")
+
+#OUTPUT
+Enter a character :a
+vowel
