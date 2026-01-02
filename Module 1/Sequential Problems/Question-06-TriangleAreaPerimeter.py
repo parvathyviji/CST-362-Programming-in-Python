@@ -1,9 +1,9 @@
-a = float(input("Enter side a: "))
-b = float(input("Enter side b: "))
-c = float(input("Enter side c: "))
-p = a + b + c
-s = p / 2
-a= (s * (s - a) * (s - b) * (s - c))**0.5
+a=float(input("Enter side a: "))
+b=float(input("Enter side b: "))
+c=float(input("Enter side c: "))
+p=a + b + c
+s=p/2
+a=(s*(s-a)*(s-b)*(s-c))**0.5
 print("Perimeter =", p)
 print("Area =", a)
 
