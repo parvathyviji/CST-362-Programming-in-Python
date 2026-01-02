@@ -5,3 +5,7 @@ if a>b:
     print("Largest digit is..",a)
 else:
     print("Largest digit is..",b)
+
+#OUTPUT
+Enter a two digit number :78
+Largest digit is.. 8
