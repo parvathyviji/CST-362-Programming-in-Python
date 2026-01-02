@@ -5,3 +5,7 @@ elif a<0:
     print("negative")
 else:
     print("zero")
+
+#OUTPUT
+Enter a number :-12
+negative
