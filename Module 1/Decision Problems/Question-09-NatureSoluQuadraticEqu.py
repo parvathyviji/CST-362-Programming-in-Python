@@ -8,3 +8,9 @@ elif d==0:
     print("Real and equal roots")
 else:
     print("Imaginary roots")
+
+#OUTPUT
+Enter a :-5
+Enter b :1
+Enter c :6
+Real and distinct roots
