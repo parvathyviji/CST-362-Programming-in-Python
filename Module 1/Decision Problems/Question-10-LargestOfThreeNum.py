@@ -8,5 +8,9 @@ elif b > a and b > c:
 else:
     print("c is largest")
 
-
+#OUTPUT
+Enter 1st number: 32
+Enter 2nd number: 15
+Enter 3rd number: 40
+c is largest
     
