@@ -8,3 +8,7 @@ elif units<=600:
 else:
     bill=425+(units-600)*1.25
 print("Electricity bill is..",bill)
+
+#OUTPUT
+Enter units :350
+Electricity bill is.. 197.5
